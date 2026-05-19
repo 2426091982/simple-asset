@@ -1,0 +1,19 @@
+{
+  "name": "simple-asset",
+  "version": "1.0.0",
+  "description": "Minimalist Personal Asset Aggregation Tool",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "big.js": "^6.2.1",
+    "crypto-js": "^4.2.0",
+    "pinia": "^2.1.7",
+    "pinia-plugin-persistedstate": "^3.2.1"
+  },
+  "devDependencies": {
+    "sass": "^1.77.1",
+    "sass-loader": "^14.2.1"
+  }
+}

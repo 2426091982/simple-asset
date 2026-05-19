@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"D:\\\\Apps\\\\HBuilderX\\\\HBuilderX.exe\" -ArgumentList \"C:\\\\Users\\\\Jun\\\\Desktop\\\\学习\\\\savings-tracker\\\\Simple Asset\")",
+      "PowerShell(& \"D:\\\\Apps\\\\HBuilderX\\\\cli.exe\" publish web --help 2>&1)",
+      "PowerShell(& \"D:\\\\Apps\\\\HBuilderX\\\\cli.exe\" publish web --project \"C:\\\\Users\\\\Jun\\\\Desktop\\\\学习\\\\savings-tracker\\\\Simple Asset\" 2>&1)",
+      "PowerShell(Start-Process \"http://localhost:8080\")"
+    ]
+  }
+}
